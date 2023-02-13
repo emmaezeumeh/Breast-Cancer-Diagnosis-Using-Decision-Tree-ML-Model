@@ -17,25 +17,36 @@ The features are computed from a digitized image of a fine needle aspirate (FNA)
 ### Training Set:
 
 AUC: 1.000
+
 Accuracy: 0.993
+
 Recall: 1.000
+
 Precision: 0.990
+
 Specificity: 0.982
  
 ### Test Set:
 
 AUC: 0.943
+
 Accuracy: 0.921
+
 Recall: 0.958
+
 Precision: 0.919
+
 Specificity: 0.860
 
 
 ## Dependencies
 
 Python
+
 SKLearn
+
 Numpy
+
 Pandas
 
 ![636114372309137984-10 10 16EarlyDetection](https://user-images.githubusercontent.com/115907457/218345831-5e924ded-f157-4bfa-847b-0af24e3ccb7a.jpg)
