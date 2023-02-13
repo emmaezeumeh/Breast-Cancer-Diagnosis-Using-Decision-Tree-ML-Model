@@ -30,6 +30,14 @@ Recall: 0.958
 Precision: 0.919
 Specificity: 0.860
 
+
+## Dependencies
+
+Python
+SKLearn
+Numpy
+Pandas
+
 ![636114372309137984-10 10 16EarlyDetection](https://user-images.githubusercontent.com/115907457/218345831-5e924ded-f157-4bfa-847b-0af24e3ccb7a.jpg)
 
 
