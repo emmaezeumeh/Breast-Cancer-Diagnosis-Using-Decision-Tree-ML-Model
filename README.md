@@ -6,7 +6,7 @@
 
 The goal is to predict breast cancer, that is the presence of a malignant tumor in a patient, depending on the features/predictors in the dataset. The predictors in the dataset for this project are discrete and the outcome is binary, either malignant or benign. 
 
-This is a classification problem and so Decision Tree, a machine learning classification method, is chosen and used to fit a function to predict the class of new data points. To improve the accuracy of my model, I use GridSearchCV to tune the hyperparameters in my ML classifier. 
+This is a classification problem and so Decision Tree, a machine learning classification method, is chosen and used to fit a function to predict the class of new data points. To improve the accuracy of my model, I used stratified KFold cross validation and then GridSearchCV to tune the hyperparameters in my ML classifier. 
 
 ## Dataset Description
 Source: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
